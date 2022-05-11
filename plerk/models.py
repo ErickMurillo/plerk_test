@@ -23,4 +23,4 @@ class Transaccion(models.Model):
 	status_approved = models.BooleanField()
 
 	def __str__(self):
-		return self.id
+		return str(self.id)
