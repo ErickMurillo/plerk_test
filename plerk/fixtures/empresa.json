@@ -1,0 +1,1298 @@
+[
+{
+    "model": "plerk.empresa",
+    "pk": "002659cd-07a2-482d-ac9a-7b3a68eb2c99",
+    "fields": {
+        "nombre": "ktronix",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "0260a865-6e04-44e0-966e-0b707fbba709",
+    "fields": {
+        "nombre": "verificacion ks",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "0531abd8-dc52-47c5-8a64-92e4c1388326",
+    "fields": {
+        "nombre": "discord",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "05c0ff65-6817-4718-94c0-b974dd714805",
+    "fields": {
+        "nombre": "tinder",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "05dc55fd-4d03-4ab6-ba19-7132cf8ff50f",
+    "fields": {
+        "nombre": "mubi",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "082b9e3b-5cd7-45d1-ac96-d40e32090468",
+    "fields": {
+        "nombre": "mercuryo",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "08d8f89d-d149-4187-b07f-1a2891a79270",
+    "fields": {
+        "nombre": "codecademy",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "09018909-e9b3-4286-a92e-ecde2273cd91",
+    "fields": {
+        "nombre": "airbnb",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "0b7857bb-d50c-4a93-8281-50fe091cd37d",
+    "fields": {
+        "nombre": "beatride",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "0d38ec8e-9a3a-48b2-a612-2b811aa929e1",
+    "fields": {
+        "nombre": "frizata",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "0fb9ca03-05c0-402d-a7f6-559fb20cd798",
+    "fields": {
+        "nombre": "dlocal",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "100a3cf4-42a0-4e75-ae94-c51dc0e19b25",
+    "fields": {
+        "nombre": "ebay",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "10646a9a-9e5d-4640-bc1f-180d5497fe48",
+    "fields": {
+        "nombre": "revolut",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "107af894-42ff-4bc1-a981-4c3e71bee44f",
+    "fields": {
+        "nombre": "maimag",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "11295ab7-54cd-480b-9a6b-614f9725205d",
+    "fields": {
+        "nombre": "Mercado Pago",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "18df60ad-fa34-4298-8f65-7c9093186431",
+    "fields": {
+        "nombre": "linkedin",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "1978a44b-14d8-46dd-8ca1-68fba78463e3",
+    "fields": {
+        "nombre": "universidad de chile",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "1d464dc2-4262-495d-9b71-6ac0d148834f",
+    "fields": {
+        "nombre": "pedidos ya",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "1d933b79-fca4-4d43-a051-27dd9c769d8d",
+    "fields": {
+        "nombre": "sweat",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "1dfcd77e-58ed-40a5-b035-9d067332b3d3",
+    "fields": {
+        "nombre": "Uber Eats",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "1f000d2b-37d3-4466-894d-38029d20f128",
+    "fields": {
+        "nombre": "PedidosYa",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "1fdb1930-9ad5-4c88-b522-33bf1c049728",
+    "fields": {
+        "nombre": "new york times",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "20ad57c9-fce1-412a-9568-47f65cbc6797",
+    "fields": {
+        "nombre": "atresplayer premium",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "21cdd5a5-3725-4899-a509-0be254a274d3",
+    "fields": {
+        "nombre": "zwift",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "258ecec7-f005-4371-b58c-b45c2ab06a6b",
+    "fields": {
+        "nombre": "nintendo eshop",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "259655b8-fa21-4dbe-8505-11dafd862f4e",
+    "fields": {
+        "nombre": "libertech",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "267b3d37-538b-4bc4-9645-f007821603af",
+    "fields": {
+        "nombre": "amazon",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "2758d8ef-e81b-4bc0-8f80-29aa4b17651f",
+    "fields": {
+        "nombre": "blinks labs",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "27a38c80-0107-4311-babf-bedcef58b562",
+    "fields": {
+        "nombre": "tienda shopealo",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "281f447f-f870-4b22-a156-f6fc8909e44d",
+    "fields": {
+        "nombre": "telmex",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "287ef108-7a6f-46cd-aa6f-d9fb41673434",
+    "fields": {
+        "nombre": "headspace",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "2b5e91b9-a67e-4d29-9278-6d613abbe945",
+    "fields": {
+        "nombre": "nadar de noche",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "33c25f98-60a6-459d-8373-e3302777e942",
+    "fields": {
+        "nombre": "netflix",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "3732364c-9e74-4619-9490-af8d5175252b",
+    "fields": {
+        "nombre": "Udemy",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "37d97ae7-9fc6-482b-a14f-71a4fa89ab59",
+    "fields": {
+        "nombre": "Vecat",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "384d0cad-3594-436c-a97a-bcb28c151ae7",
+    "fields": {
+        "nombre": "starbucks",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "38535600-2f86-4443-8854-50de7a1e8feb",
+    "fields": {
+        "nombre": "audible",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "39813500-8b7e-4b5f-a285-888c1778cbf0",
+    "fields": {
+        "nombre": "monokai",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "3b93fc10-ffca-42c4-8a4d-fbc697f6edea",
+    "fields": {
+        "nombre": "mundo manias",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "3e7d463a-9141-482c-ad13-3b4ec229f841",
+    "fields": {
+        "nombre": "gaia",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "3ef8a9cb-b578-440b-8131-e18911a888da",
+    "fields": {
+        "nombre": "HBO MAX",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "40011def-7dea-4545-90da-0a1b6ab32818",
+    "fields": {
+        "nombre": "replit",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "40a3047a-f82a-4769-be36-e962a363e197",
+    "fields": {
+        "nombre": "google colaboratory",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "40dce682-24bf-47da-8af5-32c1136997f7",
+    "fields": {
+        "nombre": "Rappi",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "4124203e-4b7a-476b-9001-8b6e99735870",
+    "fields": {
+        "nombre": "Nespresso",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "41b04d08-06e6-4d85-921c-f90e621a0ade",
+    "fields": {
+        "nombre": "Paypal",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "434c245f-6329-4329-9849-a72e559183e3",
+    "fields": {
+        "nombre": "riot games",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "4429c364-f0ce-4bff-bc0a-a144ff54c36c",
+    "fields": {
+        "nombre": "Paramount+",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "44cfb991-fd71-42db-a38c-70d4c054bdf4",
+    "fields": {
+        "nombre": "Weex",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "44eb510c-6b9a-4806-98b2-9f44f798b3de",
+    "fields": {
+        "nombre": "aliexpress",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "45d219ce-bb40-4684-9fed-74888ab860d8",
+    "fields": {
+        "nombre": "Microsoft",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "46b53505-aec4-413e-9a3e-53e93cf6308e",
+    "fields": {
+        "nombre": "The New York Times",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "48111938-07ba-4ef5-9f60-cb330e76fdf6",
+    "fields": {
+        "nombre": "tulotero",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "4deb1f33-2547-4813-9231-c32af377d4d1",
+    "fields": {
+        "nombre": "playstation network",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "4e7a6d71-8e14-4f0c-9324-6a815565d247",
+    "fields": {
+        "nombre": "staples",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "51955239-5ba1-4591-8f8b-9464e97c6c91",
+    "fields": {
+        "nombre": "paramount pluss",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "53644686-9b19-49e0-9d17-54328c5de351",
+    "fields": {
+        "nombre": "comisión federal de electricidad",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "53c5f2f6-84c8-49fb-9e32-73b1abf7fcec",
+    "fields": {
+        "nombre": "criterion channel",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "54a9083c-a372-4eac-9830-519a07516ba7",
+    "fields": {
+        "nombre": "D-local",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "564ae088-5b05-4a36-951a-3b87c63561fe",
+    "fields": {
+        "nombre": "formula uno",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "59fc5ee8-5d95-42f1-a7a5-66ce08dd50c1",
+    "fields": {
+        "nombre": "bien limpito",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "5c8545fe-c778-4703-bb22-4866eed8e026",
+    "fields": {
+        "nombre": "metrogas cdmx",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "5cc5c70c-ae68-47b2-a53e-ba663bbcf93d",
+    "fields": {
+        "nombre": "bumble",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "5d9fd17c-e3e4-4f59-975d-2a5b5c8a460c",
+    "fields": {
+        "nombre": "koroto",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "5f2ceaa7-3718-4ffd-b299-c08345c0f0d6",
+    "fields": {
+        "nombre": "google cloud",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "5f3174f9-75fe-438a-9cf0-fcf13656a236",
+    "fields": {
+        "nombre": "paddle",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "604abba9-cfc4-4256-8ea6-07e1f5983df3",
+    "fields": {
+        "nombre": "ocho la super app",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "61584bd3-9960-4545-9897-d174e2e9d9d9",
+    "fields": {
+        "nombre": "edetsa",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "6165880d-9032-422d-9405-e9b4e5cdd965",
+    "fields": {
+        "nombre": "self growth plan",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "61d8d576-fa1e-47aa-98d9-e937e9cee424",
+    "fields": {
+        "nombre": "patreon",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "6259f725-1a94-4e52-aecf-98d4c0d05e31",
+    "fields": {
+        "nombre": "Spotify",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "643ad09a-5504-424e-8549-b1dba3f848fc",
+    "fields": {
+        "nombre": "pgsharp",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "64dc254e-fa59-4850-b0c0-642642418f2c",
+    "fields": {
+        "nombre": "Learn Enough",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "65bf05c9-db99-40e0-9588-8a2d56022e66",
+    "fields": {
+        "nombre": "telcel",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "6671158f-b561-4ef1-8beb-690657fbfe60",
+    "fields": {
+        "nombre": "Shein",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "671e5ef3-80b6-46cf-aa68-8869b7bb8d3e",
+    "fields": {
+        "nombre": "nordvpn",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "6a7a24fc-c797-4090-93f2-85fbf0053edc",
+    "fields": {
+        "nombre": "bookmate",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "6eb4f27f-ce08-40ac-bc2a-85678d9fff2f",
+    "fields": {
+        "nombre": "funfotos",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "6f661b1b-64fa-4425-b9ff-80bf3c191a04",
+    "fields": {
+        "nombre": "boardgamearena",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "700dc89e-56fd-41bf-ba22-b585621553de",
+    "fields": {
+        "nombre": "cabify",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "71846941-217d-4253-885d-21d09132ee36",
+    "fields": {
+        "nombre": "coursera",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "71d47597-51b4-43e0-855c-34609d704799",
+    "fields": {
+        "nombre": "Didi",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "73ffa819-b0f9-457f-95a7-fc6a9f6a58a2",
+    "fields": {
+        "nombre": "Calm",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "784f2ddc-1ae3-42f4-a34f-40daba082444",
+    "fields": {
+        "nombre": "typeform",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "7a770c88-65ca-45b9-8b4c-33218a8795a5",
+    "fields": {
+        "nombre": "youtube premium",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "802526f7-2b95-4cc7-8e77-c71c64883add",
+    "fields": {
+        "nombre": "microsoft store",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "804d2ec0-f55c-4107-90c5-9850bd53aac2",
+    "fields": {
+        "nombre": "digital ocean",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "804fa081-8af3-46cf-bb84-2bead6333428",
+    "fields": {
+        "nombre": "sublime",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "835970a5-6bde-4011-8a46-c4752ac09a0f",
+    "fields": {
+        "nombre": "Amazon Music",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "84ed2e31-16fe-4aa2-8c27-d6b16e198f85",
+    "fields": {
+        "nombre": "domino's pizza",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "8a72a07e-aee2-47d7-97cb-de445f3645d3",
+    "fields": {
+        "nombre": "devoto electronics",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "8ab589c9-d94d-44b3-bb16-42b6a25cf76d",
+    "fields": {
+        "nombre": "Humblebundle",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "8c733a9a-75dc-40d6-a6ac-4d18b3a13e87",
+    "fields": {
+        "nombre": "fluentu",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "8e2a7e84-c7fc-45d8-874d-05c940817802",
+    "fields": {
+        "nombre": "Amazon Prime",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "8ee4768c-944c-4ad3-8b13-d065d1842520",
+    "fields": {
+        "nombre": "Tacx",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "916f1ac4-bae3-4c2f-b983-c081e44eee9e",
+    "fields": {
+        "nombre": "disney+",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "994e5ed8-a6f5-42a6-8731-22be3a30c41f",
+    "fields": {
+        "nombre": "binance",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "9a521e2c-d181-4e1f-a7be-e403594e2e58",
+    "fields": {
+        "nombre": "adobe",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "9aeb438f-adc0-441e-b3aa-b3d9738e1364",
+    "fields": {
+        "nombre": "supercell videogame",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "9cdfa39f-cc14-4a10-b6a1-29d3e64707e7",
+    "fields": {
+        "nombre": "curiositystream",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "a3e51e93-d91a-421d-ae79-73aee149bc99",
+    "fields": {
+        "nombre": "penzu",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "a56b309f-57cc-4dbe-a059-5289bc8e54c0",
+    "fields": {
+        "nombre": "omgyes",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "a82358f6-3ef9-4b25-b128-0ed14f1a87b2",
+    "fields": {
+        "nombre": "okboy",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "a95d9393-da66-40cc-8a0b-f8f32312283c",
+    "fields": {
+        "nombre": "les mills media",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "ac3ee454-e1ef-45bb-b1a6-e9b6191b776a",
+    "fields": {
+        "nombre": "openpay",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "ada27d89-833d-439c-a245-73f33590e7fb",
+    "fields": {
+        "nombre": "CFE",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "ae2bd5fa-c8ed-4c92-8af8-39ccf9e7cd07",
+    "fields": {
+        "nombre": "hboMAX",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "ae8df163-cd38-457c-afaa-a81f27cc328a",
+    "fields": {
+        "nombre": "Experian",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "aed2b776-e015-4100-a2df-886d5a12a630",
+    "fields": {
+        "nombre": "itch io game store",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "aeefbfa2-7d38-4dd1-8006-1c5a6b14acda",
+    "fields": {
+        "nombre": "blim",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "b03489f2-c8d4-45ed-b725-aebdd0a7b48e",
+    "fields": {
+        "nombre": "Minecraft",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "b0a7eb3b-09a7-4404-a381-0aedbaa67d66",
+    "fields": {
+        "nombre": "cornershop",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "b0fedb44-cffd-4ec3-b901-b2dc9dafdc3c",
+    "fields": {
+        "nombre": "Infinitum",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "b174b837-5902-4912-9bae-7ad0b08af68a",
+    "fields": {
+        "nombre": "medium",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "b2622c50-ed8e-4289-b46e-ef4658a13352",
+    "fields": {
+        "nombre": "wise",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "b339fdad-d5a3-4f8a-b70c-ef6cf976cca7",
+    "fields": {
+        "nombre": "Square Enix",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "b5326c9e-57d4-40ed-b2fd-77bd7c381c8d",
+    "fields": {
+        "nombre": "Apple",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "b674cde4-7f95-4185-98b7-7cec5a0755e0",
+    "fields": {
+        "nombre": "wikimedia",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "b74f9187-5d26-4bb3-8938-25d7d9fadc2f",
+    "fields": {
+        "nombre": "didi food",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "b8a47aca-d055-4d46-af1f-d35750997834",
+    "fields": {
+        "nombre": "twitch",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "bb9279a2-882c-4e97-b81e-588e8ed785b0",
+    "fields": {
+        "nombre": "expressvpn",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "bbd317de-2cbf-4294-91ca-739ca6098c87",
+    "fields": {
+        "nombre": "Ecobici",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "bdea6278-d847-4ed2-872b-9bca200f9741",
+    "fields": {
+        "nombre": "Izzi Internet",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "be20ee2f-a2e7-4799-9f03-f8092050e24d",
+    "fields": {
+        "nombre": "YouTube Music",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "c5217c45-6929-4d68-b147-959f4a45d9c9",
+    "fields": {
+        "nombre": "vs3",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "c5a9a862-72c6-43b7-9269-32f404801d10",
+    "fields": {
+        "nombre": "bandcamp",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "c6fcc53e-c1a4-4e16-a010-6f224d44e9c3",
+    "fields": {
+        "nombre": "Appbar",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "c783d3f0-7a9d-4798-89ac-cfd8d93a1657",
+    "fields": {
+        "nombre": "fintual",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "c8fd781a-ea95-4648-a12f-1abeb3d3ecb0",
+    "fields": {
+        "nombre": "sodimac",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "c9639f28-5e2c-4327-a540-ae6bf6b83427",
+    "fields": {
+        "nombre": "Supercell",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "cb89b8e7-c094-4bce-b669-ce2c3edffcf4",
+    "fields": {
+        "nombre": "ddd yoga",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "cbb4870f-d608-49f4-b19e-b816a976a23f",
+    "fields": {
+        "nombre": "rappi prime",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "cc9b0129-1b35-4045-847a-844ff2b2347c",
+    "fields": {
+        "nombre": "DX Electrónica",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "d0a91c84-440c-4155-9ed4-647779ed8edc",
+    "fields": {
+        "nombre": "izzy internet",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "d32748e1-1a28-4160-9ca0-c78bf642a0b3",
+    "fields": {
+        "nombre": "apple music",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "d43ed203-7c7d-45c9-8e59-125c04b90e29",
+    "fields": {
+        "nombre": "Walmart",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "d67e64e3-c39b-4540-b785-5e46b80db354",
+    "fields": {
+        "nombre": "jfc electronica",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "d751e46c-0d08-45dc-8127-3c01ff2583e7",
+    "fields": {
+        "nombre": "storytel",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "d93a47be-0131-488a-b245-795821385e08",
+    "fields": {
+        "nombre": "estadiotnts",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "d9e28788-a134-42a4-ad2b-f59e7696414f",
+    "fields": {
+        "nombre": "la planchetta",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "da61006d-3e89-49c1-b83c-10136adf63e3",
+    "fields": {
+        "nombre": "tuenti",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "db1857b3-a829-4324-92a5-298cedecf9fd",
+    "fields": {
+        "nombre": "podomatic",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "dbbce604-fce7-4563-979c-10e4614706f4",
+    "fields": {
+        "nombre": "mercado libre",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "dd4c988e-86d1-4e23-925f-e98cfe8a1429",
+    "fields": {
+        "nombre": "Eventos Globales",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "dd9fe251-7a7a-4443-a676-1b15d4b3718a",
+    "fields": {
+        "nombre": "promarketlatino",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "df98927d-62d3-4dcb-90f7-f0f0ed76efa7",
+    "fields": {
+        "nombre": "domestika",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "e3949685-a704-4393-aafe-0838e6685058",
+    "fields": {
+        "nombre": "Plerk",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "e69d1744-d7e9-4793-9b56-9b8cbd13dc46",
+    "fields": {
+        "nombre": "Total Play",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "e7c58bc8-1816-4d21-9cec-ab3b7adaf61a",
+    "fields": {
+        "nombre": "fpay",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "e8456c12-63a7-48b0-bd58-d8a1ea7a40d8",
+    "fields": {
+        "nombre": "talonro",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "ea5b2ebc-07c0-4073-ab69-6bb27f93bee9",
+    "fields": {
+        "nombre": "down dog",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "ec4a81fc-f9b0-4c94-a136-b9f817362982",
+    "fields": {
+        "nombre": "Kushki",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "ec524058-36b8-4971-94fc-63df9b618268",
+    "fields": {
+        "nombre": "Prime Video",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "ed0646db-f47e-45d1-af32-c76e7df529be",
+    "fields": {
+        "nombre": "Tecno Eshop",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "f28be7ca-0a44-4424-aef8-0e217bf7123e",
+    "fields": {
+        "nombre": "dropbox",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "f38729da-934b-46f5-93b6-e96377d40d4e",
+    "fields": {
+        "nombre": "feldroy",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "f3aeb590-21be-4ad3-a09c-45ac56a5e2a2",
+    "fields": {
+        "nombre": "Kindle unlimited",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "f413efe7-7389-4955-a139-9fa20ca438f1",
+    "fields": {
+        "nombre": "crehana",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "fa1914c4-40a2-43cd-b725-5efd0d295ec7",
+    "fields": {
+        "nombre": "h&m",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "fa7be958-2a39-458e-954e-dfc95c1e555b",
+    "fields": {
+        "nombre": "uber",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "fc6e6dc4-31ac-449f-a908-da078616b8d4",
+    "fields": {
+        "nombre": "Hulu",
+        "status": 1
+    }
+},
+{
+    "model": "plerk.empresa",
+    "pk": "ffee3a6f-fa12-44ca-b3ab-793b66cc39db",
+    "fields": {
+        "nombre": "natacha oceane",
+        "status": 1
+    }
+}
+]
