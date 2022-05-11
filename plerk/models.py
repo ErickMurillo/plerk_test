@@ -21,3 +21,6 @@ class Transaccion(models.Model):
 	date = models.DateTimeField(auto_now=False, auto_now_add=False)
 	status_transaction = models.CharField(choices = STATUS_TRANSACTION, max_length=20)
 	status_approved = models.BooleanField()
+
+	def __str__(self):
+		return self.id

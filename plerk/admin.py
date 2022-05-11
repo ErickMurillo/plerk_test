@@ -17,15 +17,10 @@ class TransaccionResource(resources.ModelResource):
 		model = Transaccion
 		fields = ('id', 'id_empresa', 'price', 'date', 'status_transaction', 'status_approved')
 
-# from django import forms
-# class ProductAdminForm(forms.ModelForm):
-#     def __init__(self, *args, **kwargs):
-#         super(ProductAdminForm, self).__init__(*args, **kwargs)
-#         self.fields['date'].widget = admin.widgets.AdminSplitDateTime()
-
 class TransaccionAdmin(ImportExportModelAdmin):
 	resource_class = TransaccionResource
-	# form = ProductAdminForm
+	list_display = ('id', 'id_empresa', 'price', 'date', 'status_transaction', 'status_approved')
+
 
 admin.site.register(Empresa,EmpresaAdmin)
 admin.site.register(Transaccion,TransaccionAdmin)
